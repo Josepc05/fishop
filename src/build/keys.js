@@ -5,7 +5,7 @@ exports.default = {
         host: 'database-fishop.cfydnegj4pay.us-east-2.rds.amazonaws.com',
         user: 'admin',
         password: 'root123*',
-        database: 'database-fishop',
+        database: 'fishop',
         port : '3306',
     }
 };
